@@ -78,7 +78,7 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #00c1e0;
+  background-color: #00d4c1;
   color: #fff;
   width: 287px;
   height: 55px;
@@ -239,7 +239,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #2f6486;
+  background-color: #335a8b;
 }
 
 .bg-color--subcolor {
@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #5fcde0;
+  background-color: #4988c6;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -528,7 +528,7 @@ position: relative;
 display: inline-block; /* 吹き出しが文字幅に合わせます */ 
 margin: 10px 20px;
 padding: 10px 20px;
-background: #ccffcc; //吹き出しのカラーはここで変更
+background: #b7f3d4; //吹き出しのカラーはここで変更
 text-align: left; //テキストの位置はここで変更
 border-radius: 12px; //吹き出しの丸み具合を変更
 }
