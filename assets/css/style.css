@@ -239,7 +239,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #1b5f97;
+  background-color: #2f6486;
 }
 
 .bg-color--subcolor {
@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+  background-color: #8de0f1;
   margin: 0 -20px 20px -20px;
 }
 
@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #8ebcca;
+  background-color: #5fcde0;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -336,7 +336,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #006837;
+  background-color: #00c1e0;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
